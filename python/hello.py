@@ -1,2 +1,3 @@
 for i in range(5):
-    print("hello python!")
+    if i%2 ==1:
+        print("hello python!")
