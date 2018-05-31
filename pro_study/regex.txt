@@ -1,0 +1,21 @@
+import re
+
+match
+search
+findall
+split
+sub
+
+\d : number                       \D
+\w : number, word, underbar  <->  \W
+\s : blank                        \S
+
+[]
+- : range
+. : any one character
+? : 0 or 1
+* : at least 0
++ : at least 1
+{m} : m
+{m,n} : m~n
+() : group
